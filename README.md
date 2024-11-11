@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm here to learn how to code!
+I've just started my Computer Science A-Level!
 
 <!--
 **usayd527/usayd527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
